@@ -2,15 +2,4 @@
 
 White noise part of the project potodoro.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![FINAL_Project_Report_Potodoro](https://github.com/nhtY/bidding-app/assets/89942570/4fd73a9a-5933-4bfd-ae6f-f96e25093445)
